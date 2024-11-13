@@ -1,6 +1,9 @@
+
+import Image1 from '../../assets/Online-Car-Reservation-System.png'
+import Image2 from '../../assets/Book_Recommendation System.jpeg'
 export const ProjectList = [
   {
-    img: "/project/Online-Car-Reservation-System.png",
+    img: Image1,
     title: "Car-Rental-System",
     description:
       "A Full-Stack project of web application for Car rental service",
@@ -11,7 +14,7 @@ export const ProjectList = [
   
   },
   {
-    img: "/project/Sport Analysis- Cricket .png",
+    img: Image2,
     title: "Book Recommendation System",
     description:
       "Developed a system for recommending books based on User's Interest",
