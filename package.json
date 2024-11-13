@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/kodakandlasindhu/KSV_Portfolio",
+  "homepage": "https://kodakandlasindhu.github.io/KSV_Portfolio",
   "name": "portfolio-react",
   "version": "0.1.0",
   "private": true,
@@ -49,6 +49,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "gh-pages": "^6.2.0"
   }
 }
