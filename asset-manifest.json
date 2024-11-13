@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/KSV_Portfolio/static/css/main.5383304a.css",
+    "main.js": "/KSV_Portfolio/static/js/main.64d93020.js",
+    "static/media/photo.png": "/KSV_Portfolio/static/media/photo.a63a18d43952bc7472b0.png",
+    "static/media/Book_Recommendation System.jpeg": "/KSV_Portfolio/static/media/Book_Recommendation System.d1b934d80ef2f317104e.jpeg",
+    "static/media/Online-Car-Reservation-System.png": "/KSV_Portfolio/static/media/Online-Car-Reservation-System.c0448b6fc17da07c74b1.png",
+    "static/media/logo.png": "/KSV_Portfolio/static/media/logo.82c58c3915fc3197a9b2.png",
+    "index.html": "/KSV_Portfolio/index.html",
+    "static/media/blob-haikei.svg": "/KSV_Portfolio/static/media/blob-haikei.ed4231cd548cd312fe4f.svg",
+    "main.5383304a.css.map": "/KSV_Portfolio/static/css/main.5383304a.css.map",
+    "main.64d93020.js.map": "/KSV_Portfolio/static/js/main.64d93020.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5383304a.css",
+    "static/js/main.64d93020.js"
+  ]
+}
