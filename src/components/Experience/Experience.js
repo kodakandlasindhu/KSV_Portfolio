@@ -14,7 +14,7 @@ function Experience() {
         "Designed and implemented high-performance RESTful APIs, facilitating seamless data communication and integration for enterprise clients,resulting in a 25% increase in data retrieval speed. Utilized Java, Spring Boot, and Postman for API development and testing. ",
         "Developed responsive and user-friendly interfaces using Angular, enhancing user experience and increasing customer satisfaction scores by 15%. Ensured cross-browser compatibility and optimized load times by 20%.",
         "Enhanced code quality and collaboration through code reviews and pair programming, leading to a 40% reduction in code defects and improved team efficiency. Utilized tools such as Git, GitHub for version control and code review processes.",
-        "Optimized complex SQL queries and JDBC operations, enhancing database interaction efficiency and cutting data retrieval times by 25%.Achieved this by restructuring database schema and optimizing query execution plans using MySQL and Oracle databases",
+        
       ],
     },
     {
@@ -24,7 +24,7 @@ function Experience() {
       location: "Bengaluru, India",
       date: "August 2020 - July 2022",
       responsibilities: [
-        "Engineered responsive web applications using HTML, CSS, JavaScript, and Angular enhancing user interfaces and user experience, which led to a 30% increase in user engagement.",
+        "Engineered responsive web applications using HTML, CSS, JavaScript, and React enhancing user interfaces and user experience, which led to a 30% increase in user engagement.",
         "Created scalable and secure RESTful APIs to facilitate seamless client-server communication using Java and Spring Boot, improving API response times by 20% and ensuring high reliability and scalability of backend services.",
         "Constructed database schemas, wrote and optimized complex SQL queries, and managed database interactions using MySQL, PostgreSQL,Hibernate, and JDBC, reducing data retrieval times by 25% and improving overall database efficiency.",
         "Implemented CI/CD pipelines using Jenkins, Docker, Kubernetes, and Git to automate build, test, and deployment processes, decreasing deployment time by 50% and reducing post-release defects by 35% through automated testing and continuous integration practices.",
