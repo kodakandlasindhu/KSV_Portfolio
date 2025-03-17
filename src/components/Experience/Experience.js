@@ -8,7 +8,7 @@ function Experience() {
       position: "Full-Stack Developer",
       company: "PTC",
       location: "Boston,MA",
-      date: "June 2023 - Present",
+      date: "June 2024 - Present",
       responsibilities: [
         "Spearheaded the optimization of a legacy CRM system, leading to a 30% improvement in overall system performance and a 20% reduction in response time by refactoring code and implementing efficient algorithms using Java, Spring Boot, and Hibernate.",
         "Designed and implemented high-performance RESTful APIs, facilitating seamless data communication and integration for enterprise clients,resulting in a 25% increase in data retrieval speed. Utilized Java, Spring Boot, and Postman for API development and testing. ",
